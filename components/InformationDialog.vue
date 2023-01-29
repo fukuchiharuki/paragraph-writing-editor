@@ -23,7 +23,7 @@ const emit = defineEmits<{
       <h1>Contact me</h1>
       <p>Feel free to make issues if you have any questions.</p>
       <ul>
-        <li><a href="https://github.com/paragraph-writing-editor/paragraph-writing-editor.github.io">GitHub</a></li>
+        <li><a href="https://github.com/paragraph-writing-editor/paragraph-writing-editor.github.io">GitHub Project</a></li>
       </ul>
     </section>
   </ModalWindow>
