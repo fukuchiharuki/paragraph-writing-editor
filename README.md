@@ -1,6 +1,6 @@
 # Paragraph Writing Editor
 
-[Try it out!](https://paragraph-writing-editor.github.io/)
+[Try it out!](https://fukuchiharuki.me/paragraph-writing-editor/)
 
 ## What is this
 
